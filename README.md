@@ -1,0 +1,1 @@
+# Weights for Panoptes projects
